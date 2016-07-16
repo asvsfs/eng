@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"NOTE";"Unstressed";"";
+"REFERENCE";"J 52";"";
+"TraceParts.PartVersion";"1.3.3";"";
+"SUPPLIER";"SEEGER-ORBIS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"32-01122009-105544";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"J   Seeger-Rings for bores DIN 472";"";
+"TraceParts.InstanceId";"32-01122009-105544D10UYYDQV9HTMW0Q8Z99M1LV4";"";
+"TraceParts.PartTitle";"J   Seeger-Rings for bores DIN 472";"";
+"OMNICLASS23";"23.13.23.11.13.25";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"SEEGER:/F_SEEGER/32-01122009-105544";"";
